@@ -4,7 +4,7 @@ This is a Pokémon project that displays all Pokémon and their information. The
 
 ## Demo
 
-Check out the live demo on Vercel: https://pokemon-arbaz.vercel.app
+Check out the live demo on Vercel: https://pokemon-arbaz.netlify.app/
 
 ## Features
 
